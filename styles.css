@@ -1,0 +1,12 @@
+body {
+	background-image: url("http://i0.wp.com/25.media.tumblr.com/tumblr_m3j2585of41rvtt72o1_500.jpg");
+}
+p {
+		color:white;
+}
+p#eeyore{
+	color:magenta;
+}
+p.Brooke{
+	color:magenta;
+}
